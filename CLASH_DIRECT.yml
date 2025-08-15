@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,mddcloud.com.cn
 # bugly
 DOMAIN-SUFFIX,bugly.qq.com
 
+# dev-getui
+DOMAIN-SUFFIX,mvn.gt.igexin.com
+
 # caiyun
 DOMAIN-SUFFIX,caiyunapp.com
 
