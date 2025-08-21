@@ -3,3 +3,6 @@
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,bn.d.miui.com
 DOMAIN-SUFFIX,gradle.org
+
+#binance.com
+DOMAIN-SUFFIX,binance.com
