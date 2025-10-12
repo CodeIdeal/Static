@@ -4,5 +4,8 @@ DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,bn.d.miui.com
 DOMAIN-SUFFIX,gradle.org
 
+# steam
+DOMAIN-SUFFIX,steamcommunity.com
+
 #binance.com
 DOMAIN-SUFFIX,binance.com
