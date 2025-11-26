@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,toutiao.com
 # own
 IP-CIDR,107.174.254.130/32
 DOMAIN-SUFFIX,cabana.tech
+
+#chiphell
+DOMAIN-SUFFIX,chiphell.com
