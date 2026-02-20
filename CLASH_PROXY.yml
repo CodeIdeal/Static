@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,steamcommunity.com
 
 #binance.com
 DOMAIN-SUFFIX,binance.com
+
+#docker hub
+DOMAIN-SUFFIX,docker.io
