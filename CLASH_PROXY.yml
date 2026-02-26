@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,binance.com
 
 #docker hub
 DOMAIN-SUFFIX,docker.io
+
+#flap
+DOMAIN-SUFFIX,taxed.fun
